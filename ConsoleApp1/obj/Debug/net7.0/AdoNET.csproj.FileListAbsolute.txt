@@ -1,0 +1,5 @@
+C:\Users\Pclab02\Desktop\ConsoleObject\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\AdoNET.csproj.AssemblyReference.cache
+C:\Users\Pclab02\Desktop\ConsoleObject\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\AdoNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pclab02\Desktop\ConsoleObject\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\AdoNET.AssemblyInfoInputs.cache
+C:\Users\Pclab02\Desktop\ConsoleObject\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\AdoNET.AssemblyInfo.cs
+C:\Users\Pclab02\Desktop\ConsoleObject\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\AdoNET.csproj.CoreCompileInputs.cache
